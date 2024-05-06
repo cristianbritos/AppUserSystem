@@ -1,0 +1,12 @@
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\bin\Debug\AppConUser.exe.config
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\bin\Debug\AppConUser.exe
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\bin\Debug\AppConUser.pdb
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\bin\Debug\CapaNegocio.dll
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\bin\Debug\CapaDatos.dll
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\bin\Debug\CapaNegocio.pdb
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\bin\Debug\CapaDatos.pdb
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\obj\Debug\AppConUser.csproj.AssemblyReference.cache
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\obj\Debug\AppConUser.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\obj\Debug\AppConUser.csproj.CopyComplete
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\obj\Debug\AppConUser.exe
+C:\Users\Cristian\Desktop\Proyectos\CODE\AppConUser\AppConUser\obj\Debug\AppConUser.pdb
